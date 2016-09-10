@@ -1,0 +1,12 @@
+C:\Users\domin\AppData\Local\Temporary Projects\WindowsOptimizer\bin\Debug\WindowsOptimizer.exe.config
+C:\Users\domin\Documents\GitHub\WindowsOptimizer\WindowsOptimizer\WindowsOptimizer\bin\Debug\WindowsOptimizer.exe.config
+C:\Users\domin\Documents\GitHub\WindowsOptimizer\WindowsOptimizer\WindowsOptimizer\bin\Debug\WindowsOptimizer.exe
+C:\Users\domin\Documents\GitHub\WindowsOptimizer\WindowsOptimizer\WindowsOptimizer\bin\Debug\WindowsOptimizer.pdb
+C:\Users\domin\Documents\GitHub\WindowsOptimizer\WindowsOptimizer\WindowsOptimizer\bin\Debug\WindowsOptimizer.xml
+C:\Users\domin\Documents\GitHub\WindowsOptimizer\WindowsOptimizer\WindowsOptimizer\obj\Debug\WindowsOptimizer.vbprojResolveAssemblyReference.cache
+C:\Users\domin\Documents\GitHub\WindowsOptimizer\WindowsOptimizer\WindowsOptimizer\obj\Debug\WindowsOptimizer.Resources.resources
+C:\Users\domin\Documents\GitHub\WindowsOptimizer\WindowsOptimizer\WindowsOptimizer\obj\Debug\WindowsOptimizer.vbproj.GenerateResource.Cache
+C:\Users\domin\Documents\GitHub\WindowsOptimizer\WindowsOptimizer\WindowsOptimizer\obj\Debug\WindowsOptimizer.exe
+C:\Users\domin\Documents\GitHub\WindowsOptimizer\WindowsOptimizer\WindowsOptimizer\obj\Debug\WindowsOptimizer.xml
+C:\Users\domin\Documents\GitHub\WindowsOptimizer\WindowsOptimizer\WindowsOptimizer\obj\Debug\WindowsOptimizer.pdb
+C:\Users\domin\Documents\GitHub\WindowsOptimizer\WindowsOptimizer\WindowsOptimizer\obj\Debug\WindowsOptimizer.WindowsOptimizerForm.resources
